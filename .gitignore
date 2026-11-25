@@ -1,0 +1,8 @@
+# Secrets
+.env
+
+# Jupyter / Python clutter
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
